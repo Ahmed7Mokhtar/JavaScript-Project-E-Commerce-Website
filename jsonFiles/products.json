@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "discound": "60%",
+        "image": "imgs\\Products\\AIR JORDAN 1 LOW (GS).webp",
+        "name": "AIR JORDAN 1 LOW (GS)",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 24,
+        "discound": "30%",
+        "image": "imgs\\Products\\Men's Arizona Desert Soil Footbed Sandal.webp",
+        "name": "Men's Arizona Footbed",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 30,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sandals",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 3,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS HANDBALL SPEZIAL.jpg",
+        "name": "ADIDAS ORIGINALS",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 170,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 39,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS HANDBALL SPEZIAL.webp",
+        "name": "ADIDAS ORIGINALSb",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 40,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS 4D FUTURECRAFT.png",
+        "name": "ADIDAS ORIGINALS 4D",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 65,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 42,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS STAPFEN SPZL.webp",
+        "name": "ADIDAS STAPFEN",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 35,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 7,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS OZRAH GUCCIMAZE.webp",
+        "name": "ADIDAS ORIGINALS OZRAH",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 76,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 39,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 8,
+        "discound": "70%",
+        "image": "imgs\\Products\\ADIDAS ORIGINALS HANDBALL SPEZIAL.jpg",
+        "name": "ADIDAS SPEZIAL",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 9,
+        "discound": "70%",
+        "image": "imgs\\Products\\DUNK LOW 'UCLA'.webp",
+        "name": "DUNK LOW 'UCLA'",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 100,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 40,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 10,
+        "discound": "70%",
+        "image": "imgs\\Products\\AIR JORDAN 3 RETRO 'FIRE RED' 2022.webp",
+        "name": "AIR JORDAN RED",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 35,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 11,
+        "discound": "70%",
+        "image": "imgs\\Products\\PUMA R78 Wns.webp",
+        "name": "PUMA R78 Wns",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "size": 39,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 22,
+        "discound": "12%",
+        "image": "imgs\\Products\\Dr. Scholl's Men's Sync.jpg",
+        "name": "VDr. Scholl's Sync",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 111,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "shoes",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+]

@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppines', sans-serif;
+}
+
+body {
+
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: #8071a8;
+}
+
+.container {
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+}
+
+.title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 30px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+
+.userdetails {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+
+
+}
+
+.input-box {
+    margin-bottom: 15px;
+
+    width: calc(100% / 2 - 20px);
+
+}
+
+.input-box input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    transition: all 0, 3s ease;
+}
+
+.details {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.input-box input:focus,
+.input-box input:valid {
+    border-color: #9b59b6;
+}
+
+.gender-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.category {
+    display: flex;
+    width: 80%;
+    margin: 14px 0;
+
+    justify-content: space-between;
+}
+
+label {
+    display: flex;
+
+
+}
+
+.dot-one {
+    height: 18px;
+    width: 18px;
+
+}
+
+.button {
+    height: 45px;
+    margin: 45px 0;
+}
+
+.finally {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+
+.finally:hover {
+    background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+
+}
+
+.cardcontainer {
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+}
+
+.card {
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+
+}
+
+.protitle {
+    width: 100%;
+    height: 40px;
+
+    margin-top: 20px;
+}
+
+.cardtitle {
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    padding-top: 6px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.go_to_login {
+    text-decoration: none;
+    color: #71b7e6;
+    transition: all .5s ease;
+}
+
+.go_to_login:hover {
+    color: #9b59b6;
+}
+
+
+#fullname-sibling,
+#username-sibling,
+#phone-sibling,
+#confirm-sibling,
+#email-sibling,
+#pass-sibling {
+    color: red;
+    margin-left: 5px;
+    padding-top: 3px;
+}

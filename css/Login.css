@@ -1,0 +1,123 @@
+#LoginForm {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #8071a8;
+    /* background: linear-gradient(135deg, #71b7e6, #9b59b6); */
+    padding: 10px;
+}
+
+
+.containerL {
+    width: 40%;
+    min-height: 38%;
+    background: white;
+    padding: 25px 30px;
+    border-radius: 15px;
+    padding-bottom: 0;
+}
+
+
+.containerL .titleL {
+    font-size: 25px;
+    /* padding-left: 100px; */
+    font-weight: 600;
+    position: relative;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.containerL .titleL::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 30px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+
+
+.containerL form .user-detailsL {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 20px 0 12px 0;
+}
+
+
+form .user-detailsL .input-boxL {
+    margin-bottom: 20px;
+    /* width: calc(100% / 2 - 20px); */
+}
+
+.user-detailsL .input-boxL .detailsL {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+
+.user-detailsL .input-boxL input {
+    height: 35px;
+    width: 95%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 15px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+.input-boxL div {
+    font-size: 15px;
+}
+
+.user-detailsL .input-boxL input:focus,
+.user-detailsL .input-boxL input:valid {
+    border-color: #9b59b6;
+}
+
+form .button {
+    height: 45px;
+    margin: 45px 0;
+}
+
+
+form .button input {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+form .button input:hover {
+    background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    cursor: pointer;
+}
+
+#email-sibling,
+#pass-sibling {
+    color: red;
+    margin-left: 5px;
+}
+
+.go_to_reg {
+    text-decoration: none;
+    color: #8071a8;
+    transition: all .5s ease;
+}
+
+.go_to_reg:hover {
+    color: #9b59b6;
+}

@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppines', sans-serif;
+}
+
+body {
+
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.container {
+    max-width: 1100px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+}
+
+.title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 30px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+
+.information {
+    float: left;
+    width: 40%;
+
+    margin-top: 15px;
+    border-radius: 5px;
+
+}
+
+input {
+    padding: 10px;
+    margin: 15px;
+    height: 45px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    transition: all 0, 3s ease;
+}
+
+input:focus,
+input:valid {
+    border-color: #9b59b6;
+}
+
+.costs {
+    box-sizing: border-box;
+    float: right;
+    width: 50%;
+
+    margin-top: 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+
+.finally {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+
+#cartDetails {
+    display: flex;
+    justify-content: space-between;
+}
+
+#cartDetails span {
+    font-weight: 700;
+}
+
+#productDetails div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#productDetails span {
+    width: 8em;
+}
+
+#totalCost {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+#totalCost input {
+    width: 20%;
+    text-align: center;
+    font-size: 0.5em;
+}

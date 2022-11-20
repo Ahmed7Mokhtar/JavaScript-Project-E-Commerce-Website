@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/checkout.css">
+  <link rel="icon" href="/imgs/logo2.jpeg" />
+  <title>Checkout</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="title">ckeckout</div>
+    <div class="information">
+      <table>
+        <tr>
+          <th> User Name</th>
+          <th>
+            <input id="username1" onchange=" namevalids()" type="text">
+          </th>
+        </tr>
+        <tr>
+          <th>Email</th>
+          <th> <input id="email1" onchange="validemail1()" type="text"></th>
+        </tr>
+        <tr>
+          <th id="paswword"> Password</th>
+          <th> <input id="paswword1" type="password" onchange=" passsvalid()"></th>
+        </tr>
+        <tr>
+          <th> Phone</th>
+          <th> <input id="phone1" type="tel" onchange="phonevalid1()"></th>
+        </tr>
+        <tr>
+          <th> Visa Code</th>
+          <th> <input id="visa" type="tel" onchange="visavalidate()"></th>
+        </tr>
+        <tr>
+          <th colspan="2.5"><input class="finally" type="submit" name="" value="Progress OK" onclick="thank()"></th>
+        </tr>
+
+        </tr>
+      </table>
+
+    </div> <!-- end of information-->
+
+    <div class="costs">
+
+      <div id="cartDetails">
+        <span>Product</span>
+        <span>Product Name</span>
+        <span>Price</span>
+        <span>Quantity</span>
+        <span>Sub Total</span>
+      </div>
+
+      <div id="productDetails">
+        <!-- <div>
+          <span><img id="prdImage" src="imgs\Products\ADIDAS ORIGINALS OZRAH GUCCIMAZE.webp" alt="" width="60px"
+              style="margin-right: 70px;"></span>
+          <span id="prdName" style="margin-right: 20px; font-weight: 700;">name</span>
+          <input id="price1" type="text" readonly value="39">
+          <input id="quantuty1" type="number" value="" style="margin-right: 30px;">
+          <input id="total1" type="text" readonly>
+        </div> -->
+      </div>
+      <div id="totalCost">
+        total cost: <input type="text" name="" id="tCost" value="" readonly>
+      </div>
+    </div>
+
+  </div> <!-- end of container-->
+
+  <script src="JS/validation.js"></script>
+  <script src="JS/checkout.js"></script
+</body>
+</html>

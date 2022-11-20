@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/regStyle.css">
+    <link rel="icon" href="/imgs/logo2.jpeg" />
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="title">Regestration</div>
+        <form class="formm" action="#">
+            <div class="userdetails">
+                <div class="input-box">
+                    <span class="details"> Full Name</span>
+                    <input id="fullname" type="text" placeholder="Enter Full Name" required>
+                    <div id="fullname-sibling"></div>
+
+                </div>
+                <div class="input-box">
+                    <span class="details"> User Name</span>
+                    <input id="userNameVal" type="text" placeholder="Enter Your User Name " required>
+                    <div id="username-sibling"></div>
+
+                </div>
+                <div class="input-box">
+                    <span class="details"> Email</span>
+                    <input id="emaill" type="text" placeholder="Enter Your Email" required>
+                    <div id="email-sibling"></div>
+
+                </div>
+                <div class="input-box">
+                    <span class="details">Phone Number</span>
+                    <input id="phone" type="text" placeholder="Enter Your Phone" required>
+                    <div id="phone-sibling"></div>
+
+                </div>
+                <div class="input-box">
+                    <span class="details"> Passwoed</span>
+                    <input id="pawws" type="password" placeholder="Enter paswword" required>
+                    <div id="pass-sibling"></div>
+
+                </div>
+                <div class="input-box">
+                    <span class="details"> Confirm Password</span>
+                    <input id="confirmm" type="password" placeholder="Enter password" required>
+                    <div id="confirm-sibling"></div>
+
+                </div>
+
+            </div>
+
+            <div>
+                <span>Already has account?</span><a class="go_to_login" href="Login.html"> Login here</a>
+            </div>
+            <div class="button">
+                <input id="submitButn" class="finally" type="submit" name="" value="Regester">
+            </div>
+
+        </form>
+    </div>
+    <script src="js/validation.js"></script>
+    <script src="js/validationReg.js"></script>
+</body>
+
+</html>

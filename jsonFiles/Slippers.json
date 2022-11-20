@@ -1,0 +1,150 @@
+[
+    {
+        "id": 33,
+        "discound": "60%",
+        "image": "imgs\\Products\\Fuzz Lined Clog.webp",
+        "name": "Fuzz Lined Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 49.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 34,
+        "discound": "35%",
+        "image": "imgs\\Products\\Axelrod Medium Wide Clog.webp",
+        "name": "Axelrod Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 30,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 35,
+        "discound": "30%",
+        "image": "imgs\\Products\\Men's Boston Footbed Clog.jpg",
+        "name": "Men's Boston Footbed",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 29.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 36,
+        "discound": "80%",
+        "image": "imgs\\Products\\Men's Pierre Slipper.webp",
+        "name": "Men's Pierre Slipper",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 64.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 40,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 37,
+        "discound": "60%",
+        "image": "imgs\\Products\\Men's Zermatt Slipper.webp",
+        "name": "Men's Zermatt Slipper",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 35,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 38,
+        "discound": "42%",
+        "image": "imgs\\Products\\Men's Baseball Stitch Clog Slipper.jpg",
+        "name": "Men's Baseball Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 64.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 39,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 39,
+        "discound": "15%",
+        "image": "imgs\\Products\\Men's Gabriel Clog Slipper.webp",
+        "name": "Men's Gabriel Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 74.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 42,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 40,
+        "discound": "20%",
+        "image": "imgs\\Products\\Men's Faux Leather Clog.jpg",
+        "name": "Men's Faux Leather Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 64.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 40,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 41,
+        "discound": "22%",
+        "image": "imgs\\Products\\Men's LiteRide Clog.webp",
+        "name": "Men's LiteRide Clog",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 64.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 37,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 42,
+        "discound": "35%",
+        "image": "imgs\\Products\\Men's Mulligan Golf Slide.webp",
+        "name": "Men's Mulligan Golf Slide",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 64.99,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "slippers",
+        "size": 35,
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+]
